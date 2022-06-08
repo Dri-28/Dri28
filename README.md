@@ -5,5 +5,6 @@
 🎵Curte uma música
 ✈️Uma boa viagem
 
-![Gif of Woman](https://giphy.com/gifs/nbc-wave-102-the-thing-about-pam-wyE8xpziQGbqjvMirz)
+![Gif of Woman](https://media.giphy.com/media/JmBXdjfIblJDi/giphy.gif)
+
   
