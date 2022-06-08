@@ -5,5 +5,5 @@
 🎵Curte uma música
 ✈️Uma boa viagem
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Gif of Woman](https://giphy.com/gifs/nbc-wave-102-the-thing-about-pam-wyE8xpziQGbqjvMirz)
   
