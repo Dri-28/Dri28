@@ -5,4 +5,4 @@
 🎵Curte uma música
 ✈️Uma boa viagem
 
-!(https://giphy.com/gifs/nbc-wave-102-the-thing-about-pam-wyE8xpziQGbqjvMirz)
+!(https://octodex.github.com/images/yaktocat.png)
