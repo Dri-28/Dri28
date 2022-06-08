@@ -5,4 +5,4 @@
 🎵Curte uma música
 ✈️Uma boa viagem
 
-![Gif Image](https://giphy.com/gifs/nbc-wave-102-the-thing-about-pam-wyE8xpziQGbqjvMirz)
+!(https://giphy.com/gifs/nbc-wave-102-the-thing-about-pam-wyE8xpziQGbqjvMirz)
